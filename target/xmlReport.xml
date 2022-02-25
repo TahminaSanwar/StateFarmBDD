@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.707">
+    <testcase classname="Get an insurance quote" name="New car insurance quote" time="13.525">
+        <system-out><![CDATA[Given user is on the home page..............................................passed
+When user select Small Business option from product drop down...............passed
+And put zip code in zipcode field...........................................passed
+And click on Start a quote button...........................................passed
+Then Find a State Farm Agent Near You page shows up.........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
